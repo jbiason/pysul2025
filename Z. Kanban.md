@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] Definir datas
 - [ ] Verificar possibilidade de fazer na UNISINOS
 - [ ] Fazer contrato de artes
 - [ ] Compra dos lenços
@@ -18,6 +17,7 @@ kanban-plugin: board
 
 ## Feito
 
+- [ ] Definir datas
 
 
 
