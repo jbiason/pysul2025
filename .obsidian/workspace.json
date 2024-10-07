@@ -24,8 +24,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "d8c8fc1045bd775a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Definição do evento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z. Kanban.md",
+                "file": "0. Definição do evento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z. Kanban.md",
+                "file": "0. Definição do evento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Kanban.md"
+                "file": "0. Definição do evento.md"
               }
             }
           }
@@ -154,10 +167,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aea24b0f8c0672ec",
+  "active": "d8c8fc1045bd775a",
   "lastOpenFiles": [
-    "0. Definição do evento.md",
     "Z. Kanban.md",
+    "0. Definição do evento.md",
     "Welcome.md"
   ]
 }
