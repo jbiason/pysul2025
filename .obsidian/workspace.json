@@ -11,17 +11,11 @@
             "id": "aea24b0f8c0672ec",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Z. Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "0. Definição do evento.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Definição do evento.md",
+                "file": "Locais/Araújo Viana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,10 +160,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d8c8fc1045bd775a",
+  "active": "aea24b0f8c0672ec",
   "lastOpenFiles": [
-    "Z. Kanban.md",
+    "Locais/Araújo Viana.md",
     "0. Definição do evento.md",
+    "Locais/Tecnopuc.md",
+    "Locais/Unisinos.md",
+    "Locais/Instituto Caldera.md",
+    "Z. Kanban.md",
+    "Locais",
     "Welcome.md"
   ]
 }
