@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locais/Unisinos.md",
+                "file": "0. Definição do evento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unisinos"
+              "title": "0. Definição do evento"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locais/Unisinos.md",
+                "file": "0. Definição do evento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unisinos"
+              "title": "Backlinks for 0. Definição do evento"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locais/Unisinos.md",
+                "file": "0. Definição do evento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unisinos"
+              "title": "Outgoing links from 0. Definição do evento"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locais/Unisinos.md"
+                "file": "0. Definição do evento.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Unisinos"
+              "title": "Outline of 0. Definição do evento"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "aea24b0f8c0672ec",
   "lastOpenFiles": [
+    "Locais/Unisinos.md",
     "0. Definição do evento.md",
     "Locais/Araújo Viana.md",
     "Locais/IRFS.md",
@@ -173,7 +174,6 @@
     "Locais/CIEE.md",
     "Locais/UFRGS.md",
     "Locais/Tecnopuc.md",
-    "Locais/Unisinos.md",
     "Locais/Instituto Caldera.md",
     "Z. Kanban.md",
     "Locais",
