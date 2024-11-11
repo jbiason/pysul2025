@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Definição do evento.md",
+                "file": "Locais/CIEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Definição do evento"
+              "title": "CIEE"
             }
           }
         ]
@@ -166,15 +166,17 @@
   },
   "active": "aea24b0f8c0672ec",
   "lastOpenFiles": [
-    "Locais/Unisinos.md",
+    "Pasted image 20241111163257.png",
     "0. Definição do evento.md",
+    "Locais/Instituto Caldera.md",
+    "Locais/Python_Sul_PRO562.pdf",
+    "Locais/Unisinos.md",
     "Locais/Araújo Viana.md",
     "Locais/IRFS.md",
     "IFRS.md",
     "Locais/CIEE.md",
     "Locais/UFRGS.md",
     "Locais/Tecnopuc.md",
-    "Locais/Instituto Caldera.md",
     "Z. Kanban.md",
     "Locais",
     "Welcome.md"
