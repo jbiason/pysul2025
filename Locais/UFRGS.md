@@ -4,6 +4,13 @@ Campus do Vale é onde é feito o curso de computação. Tem algumas pousadas e 
 
 Precisariamos de um contato para saber se é possível fazer.
 
+https://www.ufrgs.br/difusaocultural/espacos-do-centro-cultural/
+
+CONTATO
+E-mail: difusaocultural@ufrgs.br
+Telefone: 51-33081991
+
+
 ![[UFRGS cultural.pdf]]
 
 Auditório Tipo 1: 2 dias x 2 espaços x 1200 = 4800
