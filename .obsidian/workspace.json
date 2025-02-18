@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESC (Protásio).md",
+                "file": "Dom Bosco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SESC (Protásio)"
+              "title": "Dom Bosco"
             }
           }
         ]
@@ -168,7 +168,10 @@
   "active": "aea24b0f8c0672ec",
   "lastOpenFiles": [
     "0. Definição do evento.md",
-    "SESC (Protásio).md",
+    "Dom Bosco.md",
+    "Locais/UniRitter.md",
+    "Locais/Jardim Botânico.md",
+    "Locais/SESC (Protásio).md",
     "Locais/Tecnopuc.md",
     "Locais/Unisinos.md",
     "Locais/UFRGS cultural.pdf",
