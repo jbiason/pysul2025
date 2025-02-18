@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locais/UFRGS.md",
+                "file": "SESC (Protásio).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UFRGS"
+              "title": "SESC (Protásio)"
             }
           }
         ]
@@ -167,17 +167,18 @@
   },
   "active": "aea24b0f8c0672ec",
   "lastOpenFiles": [
-    "Locais/UFRGS.md",
     "0. Definição do evento.md",
-    "Locais/UFRGS cultural.pdf",
-    "Locais/Unisinos.md",
+    "SESC (Protásio).md",
     "Locais/Tecnopuc.md",
+    "Locais/Unisinos.md",
+    "Locais/UFRGS cultural.pdf",
+    "Locais/UFRGS.md",
     "Locais/Python_Sul_PRO562.pdf",
     "Locais/Pasted image 20241111163257.png",
     "Locais/IRFS.md",
+    "Locais/Instituto Caldera.md",
     "Locais/CIEE.md",
     "Locais/Araújo Viana.md",
-    "Locais/Instituto Caldera.md",
     "IFRS.md",
     "Z. Kanban.md",
     "Locais",
