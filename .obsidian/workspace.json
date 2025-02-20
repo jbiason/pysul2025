@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "7d3ca75acbe902b2",
+            "id": "d63c35567ed238ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teatro da Santa Casa.md",
+                "file": "Locais/Teatro da Santa Casa.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "324ab62c2bc7d076",
+            "id": "18f87472a8fb5685",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +47,62 @@
               },
               "icon": "lucide-file",
               "title": "Teatro do SESC"
+            }
+          },
+          {
+            "id": "f3b40bea32088b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locais/Jardim Botânico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jardim Botânico"
+            }
+          },
+          {
+            "id": "7e85f6bf99adc1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locais/SESC (Protásio).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SESC (Protásio)"
+            }
+          },
+          {
+            "id": "55b001cbdfe511fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locais/Dom Bosco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dom Bosco"
+            }
+          },
+          {
+            "id": "087f06ca1902e8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locais/UniRitter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UniRitter"
             }
           }
         ],
@@ -194,15 +250,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7d3ca75acbe902b2",
+  "active": "d63c35567ed238ea",
   "lastOpenFiles": [
-    "Teatro da Santa Casa.md",
+    "rider-tecnico-teatro-chc.pdf",
+    "Locais/Jardim Botânico.md",
+    "Locais/Teatro da Santa Casa.md",
     "0. Definição do evento.md",
     "Locais/Teatro do SESC.md",
+    "Locais/SESC (Protásio).md",
     "Locais/Dom Bosco.md",
     "Locais/UniRitter.md",
-    "Locais/Jardim Botânico.md",
-    "Locais/SESC (Protásio).md",
     "Locais/Tecnopuc.md",
     "Locais/Unisinos.md",
     "Locais/UFRGS cultural.pdf",

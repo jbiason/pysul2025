@@ -3,3 +3,7 @@ O **Teatro do Centro Histórico-Cultural Santa Casa** foi construído com modern
 [Clique aqui](https://www.chcsantacasa.org.br/wp-content/uploads/2023/03/rider-tecnico-teatro-chc.pdf) e faça download do rider técnico do Teatro.
 
 Quer saber mais informações? Entre em contato pelo e-mail teatro.chc@santacasa.org.br
+
+**Não tem espaço para os tutoriais**
+
+![[rider-tecnico-teatro-chc.pdf]]
