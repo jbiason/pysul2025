@@ -1,3 +1,5 @@
+https://www.sesc-rs.com.br/protasioalves/servicos/
+
 > Auditório João Daudt: capacidade para 250 pessoas em cadeiras fixas, ar condicionado central e parede para projeção.
 > 
 > Sala Araucária- sala com capacidade até 25 pessoas em Auditório e cadeiras com braço, ar condicionado, telão e quadro branco. Possibilidade de montagens em formatos diferentes ( sempre até 25 pessoas).

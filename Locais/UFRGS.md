@@ -11,6 +11,8 @@ E-mail: difusaocultural@ufrgs.br
 Telefone: 51-33081991
 R. Eng. Luiz Englert, 333 - Farroupilha, Porto Alegre - RS, 90040-040
 
+Espaço cultural não abre nos fins-de-semana.
+
 
 ![[UFRGS cultural.pdf]]
 
