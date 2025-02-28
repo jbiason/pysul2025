@@ -13,3 +13,4 @@ https://www.sesc-rs.com.br/protasioalves/servicos/
 >
 > Entre em contato através dos e-mails:  comercialsescprotasioalves@sesc-rs.com.br ou pelo fone: (51)3382-8806
 
+![[INFORMAÇÕES EVENTOS - SESC PROTÁSIO ALVES.pdf]]
